@@ -3,7 +3,7 @@
 
 @section('content')
     <div class="container-fluid">
-        <h2>Lista de Facturas</h2>
+        <h2>Listado de Facturas</h2>
 
         <!-- Mostrar mensaje de éxito si existe -->
         @if(session('success'))
